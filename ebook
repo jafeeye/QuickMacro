@@ -1,0 +1,9 @@
+//截圖程式 fastStone Capture
+KeyPress “F1″, 1
+Delay 500
+KeyPress “R", 1 //區域截圖
+Delay 500
+KeyPress “Enter", 1
+Delay 1000
+KeyPress “Right", 1
+Delay 1500
